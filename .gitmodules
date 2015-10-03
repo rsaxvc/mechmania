@@ -1,0 +1,12 @@
+[submodule "mm17"]
+	path = mm17
+	url = https://github.com/acm-uiuc/mm17.git
+[submodule "mm20"]
+	path = mm20
+	url = https://github.com/acm-uiuc/mm20
+[submodule "mm19"]
+	path = mm19
+	url = https://github.com/acm-uiuc/mm19
+[submodule "mm18"]
+	path = mm18
+	url = https://github.com/acm-uiuc/mm18
